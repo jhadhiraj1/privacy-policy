@@ -10,7 +10,7 @@ An offline educational Android application built with Kotlin and Jetpack Compose
 
 **Effective Date:** October 24, 2026
 
-**Dhiraj Jha** ("we", "our", or "developer") built the **Life in the UK Test Prep** app as a commercial, offline educational application. This Service is provided by **Tripe Lime Saver** and is intended for use as is.
+**Triple Lime Saver** ("we", "our", or "developer") built the **Life in the UK Test Prep** app as a commercial, offline educational application. This Service is provided by **Tripe Lime Saver** and is intended for use as is.
 
 ## 1. Information Collection and Use
 **Life in the UK Test Prep** does **not** collect, store, transmit, or share any personal information, personally identifiable data (PII), device identifiers, or location data. 
