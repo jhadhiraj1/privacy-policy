@@ -2,7 +2,7 @@
 
 # Life in the UK Test Prep
 
-An offline educational Android application built with Kotlin and Jetpack Compose to prepare candidates for the British citizenship and settlement exam, featuring 1,000 practice questions, chapter drills, score tracking, and study handbook summaries.
+An offline educational Android application built with Kotlin and Jetpack Compose to prepare candidates for the British citizenship and settlement exam, featuring 1,000+ practice questions, chapter drills, score tracking, and study handbook summaries.
 
 ---
 
